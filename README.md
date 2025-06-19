@@ -1,4 +1,4 @@
-![그림1](https://github.com/user-attachments/assets/8ff808cb-5bf7-4320-8ddf-57e88fe3a7de)
+![그림1](https://drive.google.com/file/d/1Y_v8U_OA3n7sV53MkzEd90mkhbzZRxW1/view?usp=drive_link)
 
 
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
