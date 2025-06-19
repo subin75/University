@@ -7,7 +7,8 @@
 ## 🥬 소개
 코틀린 언어를 사용한 병원 관련된 프로젝트입니다.
 
-![ChatGPT Image 2025년 6월 19일 오후 10_59_20 1 (1)](https://github.com/user-attachments/assets/2af79c00-737c-4358-9ebf-f5eb683ddc00)
+![ChatGPT Image 2025년 6월 19일 오후 10_59_20 1 (2)](https://github.com/user-attachments/assets/15e7c85a-ff30-4d82-a9f6-fb912be8fce4)
+
 
 
 
