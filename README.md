@@ -1,4 +1,5 @@
-![그림1](https://drive.google.com/file/d/1Y_v8U_OA3n7sV53MkzEd90mkhbzZRxW1/view?usp=drive_link)
+![image 1](https://github.com/user-attachments/assets/8ae4ce12-9718-4e25-852f-f8b2e8f40ec9)
+
 
 
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
@@ -6,7 +7,8 @@
 ## 🥬 소개
 코틀린 언어를 사용한 병원 관련된 프로젝트입니다.
 
-![2](https://github.com/user-attachments/assets/e19acd2f-bee0-41b2-9974-2434fd4f188e)
+![ChatGPT Image 2025년 6월 19일 오후 10_59_20](https://github.com/user-attachments/assets/68086969-c752-4c2e-b762-862b1a4fcfdc)
+
 
 
 ## 📑 요약
