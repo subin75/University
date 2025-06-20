@@ -5,7 +5,7 @@
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 
 ## 🥬 소개
-코틀린 언어를 사용한 병원 관련된 프로젝트입니다.
+병원의 맞춤형 정보를 제공하기 위한 앱, "모두의 닥터(MD)" 입니다.
 
 ![ChatGPT Image 2025년 6월 19일 오후 10_59_20 1 (3)](https://github.com/user-attachments/assets/28864cdb-d53b-4fc8-9c82-414b531786ea)
 
